@@ -9,4 +9,4 @@ Self-taught video editing, game development, some foley, etc.
 [![MissinginAction's GitHub stats](https://github-readme-stats.vercel.app/api?username=replaydevyt&theme=dark&show_icons=true)](https://github.com/replaydevyt/github-readme-stats)
 
 
-#### *(if you havent been able to tell yet, I love cluttering my repos with markdown :3)*
+*(if you havent been able to tell yet, I love cluttering my repos with markdown :3)*
