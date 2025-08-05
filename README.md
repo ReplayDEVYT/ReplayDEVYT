@@ -1,5 +1,5 @@
 # I'm MissinginAction.
-Working on modded projects for EFT with a team of people and a couple websites.
+Working on modded projects and small games mostly by myself. 
 Self-taught video editing, game development, some foley, etc.
 
 > [!WARNING]
