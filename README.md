@@ -1,4 +1,4 @@
-# I'm MissinginAction.
+# I'm mizmii.
 Working on modded projects and small games mostly by myself. 
 Self-taught video editing, game development, some foley, etc.
 
